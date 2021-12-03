@@ -1,23 +1,27 @@
 section#top {
-    text-align: center;
-    background-image: url(../imagens/tipos-de-macarrao.jpg);
+    background-image: url(../imagens/thumb-1920-427146.jpg);
 }
 section#top nav {
     background-color: #1C1C1C
 }
 div#intro {
-    color: #1C1C1C;
+    text-align: center;
+    color: #000000
 }
 div#intro p {
     font-size: 50px;
-    font-weight: 100;
-    
 }
-div#intro h2 {
+div#intro h1 {
     font-weight: 700;
+    
 }
 section#top nav ul li:nth-child(3){
 	border-left: 1px solid #fff;
+}
+div#criarConta h3 {
+    border-left: 2px solid rgb(86, 57, 248);
+    padding-left: 8px;
+
 }
 .logo {
     height: 55%;
